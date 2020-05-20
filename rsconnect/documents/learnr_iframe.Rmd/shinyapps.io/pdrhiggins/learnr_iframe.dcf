@@ -5,9 +5,9 @@ account: pdrhiggins
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2326451
-bundleId: 3168731
+bundleId: 3168818
 url: https://pdrhiggins.shinyapps.io/learnr_iframe/
-when: 1589940173.46721
+when: 1589942864.66413
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: header.html|learnr_iframe.html|Test_Chapter.html|Test_Chapter.Rmd|test1.html
+ignoredFiles: header.html|learnr_iframe.html|Test_Chapter.html|Test_Chapter.Rmd|test1.html|test/test.Rmd

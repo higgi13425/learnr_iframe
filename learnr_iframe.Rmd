@@ -12,7 +12,7 @@ library(tidyverse)
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-```{r ex1, exercise=TRUE, exercise.lines = 5}
+```{r ex1, exercise=TRUE}
 mtcars %>% 
   select()
 ```
