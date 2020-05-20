@@ -1,0 +1,25 @@
+---
+output: 
+html_document:
+  includes:
+    in_header: test1.html
+runtime: shiny_prerendered
+---
+
+```{r setup, include=FALSE}
+library(learnr)
+library(tidyverse)
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r ex1, exercise=TRUE, exercise.lines = 5}
+mtcars %>% 
+  select()
+```
+
+```{r ex1-solution}
+mtcars %>% 
+  select(mpg, cyl)
+```
+
+<div data-iframe-height></div>

@@ -1,7 +1,5 @@
 ---
-title: "Test_Chapter"
-author: "Peter Higgins"
-date: "5/19/2020"
+title: Test_Chapter
 output: 
 html_document:
   includes:
@@ -9,24 +7,15 @@ html_document:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-
-## Including Plots
+## Including Exercises
 
 You can also embed exercises, for example:
 
 <!---LEARNR EX 1-->
-
-<iframe style="margin:0 auto; min-width: 100%;" id="myIframe1" class="interactive" src="https://pdrhiggins.shinyapps.io/learnr_iframe/" scrolling="no" frameborder="no"></iframe>
-
+<iframe style="margin:0 auto; min-width: 100%;" id="myIframe1" class="interactive" src="https://pdrhiggins.shinyapps.io/learnr_iframe" scrolling="no" frameborder="no"></iframe>
 <!---------------->
 
 
