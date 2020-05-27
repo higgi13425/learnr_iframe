@@ -1,5 +1,4 @@
 ---
-title: " "
 output: 
 html_document:
   includes:
@@ -20,7 +19,7 @@ Note that you have to **replace** the placeholders cont_var (for continuous vari
 
 <!---LEARNR EX 1-->
 
-<iframe style="margin:0 auto; min-width: 100%;" id="myIframe1" class="interactive"  src="https://pdrhiggins.shinyapps.io/learnr_app1/" scrolling="yes" frameborder="no"></iframe>
+<iframe style="margin:0 auto; min-width: 100%;" id="myIframe7" class="interactive"  src="https://pdrhiggins.shinyapps.io/learnr_app1/" scrolling="yes" frameborder="no"></iframe>
 
 <!------------->
 
