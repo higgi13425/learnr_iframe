@@ -9,14 +9,17 @@ html_document:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Including Exercises
+## Topic 1: Student's t test
 
-You can also embed exercises, for example:
+### Exercise 
+
+Edit the R code in the chunk below to add do a t test on the continuous variable miles per gallon (mpg) by transmission group (am, automatic or manual).
+Note that you have to **replace** the placeholders cont_var (for continuous variable) and group_var (for grouping variable) in this code chunk.
 
 
 <!---LEARNR EX 1-->
 
-<iframe style="margin:0 auto; min-width: 100%;" class="interactive" id="myIframe1" src="https://pdrhiggins.shinyapps.io/learnr_app1/" scrolling="no" frameborder="no"></iframe>
+<iframe style="margin:0 auto; min-width: 100%;" id="myIframe1" class="interactive"  src="https://pdrhiggins.shinyapps.io/learnr_app1/" scrolling="yes" frameborder="no"></iframe>
 
 <!------------->
 
