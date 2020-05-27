@@ -1,8 +1,8 @@
 ---
 output: 
-html_document:
-  includes:
-    in_header: header.html
+  html_document:
+    includes:
+      in_header: header.html
 ---
 
 ```{r setup, include=FALSE}
@@ -22,9 +22,6 @@ Note that you have to **replace** the placeholders cont_var (for continuous vari
 <iframe style="margin:0 auto; min-width: 100%;" id="myIframe7" class="interactive"  src="https://pdrhiggins.shinyapps.io/learnr_app1/" scrolling="yes" frameborder="no"></iframe>
 
 <!------------->
-
-
-
 
 
 <script>
