@@ -16,7 +16,7 @@ You can also embed exercises, for example:
 
 <!---LEARNR EX 1-->
 
-<iframe style="margin:0 auto; min-width: 100%;" class="interactive" id="myIframe1" src="https://pdrhiggins.shinyapps.io/learnr_iframe/" scrolling="no" frameborder="no"></iframe>
+<iframe style="margin:0 auto; min-width: 100%;" class="interactive" id="myIframe1" src="https://pdrhiggins.shinyapps.io/learnr_app1/" scrolling="no" frameborder="no"></iframe>
 
 <!------------->
 
