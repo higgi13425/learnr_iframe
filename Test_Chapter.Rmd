@@ -19,17 +19,13 @@ Note that you have to **replace** the placeholders cont_var (for continuous vari
 
 <!---LEARNR EX 1--> 
 
-<iframe style="margin:0 auto; min-width: 100%;" id="myIframe7" class="interactive"  src="https://tinystats.shinyapps.io/05-correlation-ex3/" scrolling="yes" frameborder="no"></iframe> 
+<iframe style="margin:0 auto; min-width: 100%;" id="myIframe7" class="interactive"  src="https://pdrhiggins.shinyapps.io/learnr_app1/" scrolling="yes" frameborder="no"></iframe> 
+
 <!-------------> 
 
-<!---LEARNR EX 1 from TT -->
 
-<!-- <iframe style="margin:0 auto; min-width: 100%;" id="myIframe1" class="interactive" src="https://pdrhiggins.shinyapps.io/learnr_app1/" scrolling="no" frameborder="no"></iframe> -->
-
-<!---------------->
-
-### text
-test lorem ipsum. test lorem ipsum. test lorem ipsum. test lorem ipsum. test lorem ipsum. test lorem ipsum. test lorem ipsum. test lorem ipsum. test lorem ipsum. test lorem ipsum. test lorem ipsum. 
+### The t-distribution
+Thus you can see the power of the mighty t test. William Sealy Gosset created it, and he is memorialized with a plaque at the Old Guiness Storehouse, where beer tours now are the primary business at this historical site. The plaque is not on the official tour, but can be found if you slip away from the tour and duck under some chains. Fortunately, most of the other tourists (and perhaps the tour guides) are usually well into their pints. For inexplicable reasons, the plaque with Gossett's name resembles a basketball with a green ring around it.
 
 <script>
   iFrameResize({}, ".interactive");
