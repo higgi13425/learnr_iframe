@@ -17,15 +17,14 @@ Edit the R code in the chunk below to add do a t test on the continuous variable
 Note that you have to **replace** the placeholders cont_var (for continuous variable) and group_var (for grouping variable) in this code chunk.
 
 
-<!-- <!---LEARNR EX 1--> -->
+<!---LEARNR EX 1--> 
 
-<!-- <iframe style="margin:0 auto; min-width: 100%;" id="myIframe7" class="interactive"  src="https://pdrhiggins.shinyapps.io/learnr_app1/" scrolling="yes" frameborder="no"></iframe> -->
+<iframe style="margin:0 auto; min-width: 100%;" id="myIframe7" class="interactive"  src="https://tinystats.shinyapps.io/05-correlation-ex3/" scrolling="yes" frameborder="no"></iframe> 
+<!-------------> 
 
-<!-- <!-------------> -->
+<!---LEARNR EX 1 from TT -->
 
-<!---LEARNR EX 1-->
-
-<iframe style="margin:0 auto; min-width: 100%;" id="myIframe1" class="interactive" src="https://pdrhiggins.shinyapps.io/learnr_app1/" scrolling="no" frameborder="no"></iframe>
+<!-- <iframe style="margin:0 auto; min-width: 100%;" id="myIframe1" class="interactive" src="https://pdrhiggins.shinyapps.io/learnr_app1/" scrolling="no" frameborder="no"></iframe> -->
 
 <!---------------->
 
