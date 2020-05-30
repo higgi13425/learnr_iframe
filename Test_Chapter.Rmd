@@ -48,6 +48,14 @@ scrolling="no"></iframe>
 This is the killer app, ggplot2, in action.
 
 
+<!---FLIPBOOK EX 2--> 
+
+```{r}
+knitr::include_url('https://evamaerey.github.io/ggplot2_grammar_guide/ggplot2_grammar_guide#1')  
+```
+
+<!-------------> 
+
 <script>
   iFrameResize({}, ".interactive");
 </script>
