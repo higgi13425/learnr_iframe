@@ -24,7 +24,7 @@ Give it a try below. See if you can figure out what each line of code is doing.
 
 <!---FLIPBOOK EX 1--> 
 
-<iframe style="margin:0 auto; border: solid blue;" 
+<iframe style="margin:0 auto; border: solid black;" 
 id="myIframe8" 
 width = "880" height = "495" src="https://higgi13425.github.io/learnr_iframe/ttest_flipbook.html#1" 
 scrolling="no"></iframe> 
