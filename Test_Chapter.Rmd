@@ -57,8 +57,12 @@ Thus you can see the power of the mighty t test. William Sealy Gosset created it
 
 ![Gosset plaque](Gosset.jpg)
 
+### And now an animation
 
-
+```{r}
+library(knitr)
+knitr::include_url("https://twitter.com/i/status/1176838581723238401" )
+```
 
 
 <script>

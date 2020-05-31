@@ -4,9 +4,7 @@
     <title>How to t test</title>
     <meta charset="utf-8" />
     <meta name="author" content="Peter Higgins" />
-    <link href="libs/remark-css-0.0.1/default.css" rel="stylesheet" />
-    <link href="libs/remark-css-0.0.1/rladies.css" rel="stylesheet" />
-    <link href="libs/remark-css-0.0.1/rladies-fonts.css" rel="stylesheet" />
+    <link rel="stylesheet" href="xaringan-themer.css" type="text/css" />
   </head>
   <body>
     <textarea id="source">
@@ -217,7 +215,7 @@ Tidy version from the {infer} package
 mtcars %&gt;%  
   select(mpg, cyl, am) %&gt;%  
   filter(cyl &gt; 5) %&gt;%  
-* t_test(mpg~am,
+* t_test(mpg ~ am,
 *        order = c("0", "1"))
 ```
 ]
@@ -243,7 +241,7 @@ Tidy version from the {infer} package
 mtcars %&gt;%  
   select(mpg, cyl, am) %&gt;%  
   filter(cyl &gt; 5) %&gt;%  
-  t_test(mpg~am,  
+  t_test(mpg ~ am,  
          order = c("0", "1"))  
 # Interpreting the results
 # The t statistic is first
