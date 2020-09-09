@@ -91,3 +91,5 @@ mtcars %>%
 ```
 
 ### Which version of the t test do you like better?
+
+Discuss.

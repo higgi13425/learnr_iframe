@@ -7,6 +7,7 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+library(palmerpenguins)
 ```
 
 ## Topic 1: Student's t test
@@ -14,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ### Let's learn about t testing
 
 Let's start with a flipbook slide show.
-When the title slide appears, you can step through each line of the code to see what it does. The arrows will let you move forward and backward in the code.
+When the title slide appears, you can step through each line of the code to see what it does. The right/left and/or up/down arrows will let you move forward and backward in the code.
 
 You can use the arrow keys to go through it one step at a time (forward or backward, depending on which arrow key you use), to see what each line of code actually does.
 
@@ -31,7 +32,7 @@ scrolling="no"></iframe>
 
 <!-------------> 
 
-This is ttesting in action.
+This is t-testing in action.
 
 ### Exercise 
 
@@ -53,16 +54,10 @@ Then edit the code yourself.
 
 ### The t-distribution
 
-Thus you can see the power of the mighty t test. William Sealy Gosset created it, and he is memorialized with a plaque at the Old Guinness Storehouse, where beer tours now are the primary business at this historical site. The plaque is not on the official tour, but can be found if you slip away from the tour and duck under some chains. Fortunately, most of the other tourists (and perhaps the tour guides) are usually well into their pints. For inexplicable reasons, the plaque with Gossett's name resembles a basketball with a green ring around it.
+Thus you can see the power of the mighty t test. William Sealy Gosset created it, and he is memorialized with a plaque at the Old Guinness Storehouse, where beer tours now are the primary business at this historical site. The plaque is not on the official tour, but can be found if you slip away from the tour and duck under some chains. Fortunately, most of the other tourists (and perhaps also the tour guides) are usually well into their pints. For inexplicable reasons, the plaque with Gossett's name resembles a basketball with a green ring around it.
 
 ![Gosset plaque](Gosset.jpg)
 
-### And now an animation
-
-```{r}
-library(knitr)
-knitr::include_url("https://twitter.com/i/status/1176838581723238401" )
-```
 
 
 <script>
